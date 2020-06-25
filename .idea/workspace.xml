@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20b0696e-38f5-4cf0-a3d8-81cad7d1a038" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1diPXbyKpVS3YNf7lWR8cwuoEwL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_A1P5.py">
+    <configuration name="a1_p4_swap_pairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures_Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1_p4_swap_pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a1_p5_camel_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures_Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a1_p5_camel_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_A1P3.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures_Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_A1P3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_A1P4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures_Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_A1P4.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_A1P5.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DataStructures_Assignment1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_A1P5.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_A1P5.py" />
+        <item itemvalue="Python.a1_p5_camel_case" />
+        <item itemvalue="Python tests.Unittests in test_A1P4.py" />
+        <item itemvalue="Python.a1_p4_swap_pairs" />
+        <item itemvalue="Python tests.Unittests in test_A1P3.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b0696e-38f5-4cf0-a3d8-81cad7d1a038" name="Default Changelist" comment="" />
+      <created>1592904981190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592904981190</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1363" height="264" key="GridCell.Tab.0.bottom" timestamp="1593086602879">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1363" height="264" key="GridCell.Tab.0.bottom/0.23.1920.995/-1920.23.1920.1057@0.23.1920.995" timestamp="1593086602879" />
+    <state width="1363" height="264" key="GridCell.Tab.0.bottom/0.23.1920.996/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593003836109" />
+    <state width="1363" height="264" key="GridCell.Tab.0.bottom/0.23.1920.996/-1920.23.1920.1057@0.23.1920.996" timestamp="1593006545044" />
+    <state width="1363" height="264" key="GridCell.Tab.0.center" timestamp="1593086602878">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1363" height="264" key="GridCell.Tab.0.center/0.23.1920.995/-1920.23.1920.1057@0.23.1920.995" timestamp="1593086602878" />
+    <state width="1363" height="264" key="GridCell.Tab.0.center/0.23.1920.996/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593003836109" />
+    <state width="1363" height="264" key="GridCell.Tab.0.center/0.23.1920.996/-1920.23.1920.1057@0.23.1920.996" timestamp="1593006545044" />
+    <state width="1363" height="264" key="GridCell.Tab.0.left" timestamp="1593086602877">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1363" height="264" key="GridCell.Tab.0.left/0.23.1920.995/-1920.23.1920.1057@0.23.1920.995" timestamp="1593086602877" />
+    <state width="1363" height="264" key="GridCell.Tab.0.left/0.23.1920.996/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593003836108" />
+    <state width="1363" height="264" key="GridCell.Tab.0.left/0.23.1920.996/-1920.23.1920.1057@0.23.1920.996" timestamp="1593006545044" />
+    <state width="1363" height="264" key="GridCell.Tab.0.right" timestamp="1593086602878">
+      <screen x="0" y="23" width="1920" height="995" />
+    </state>
+    <state width="1363" height="264" key="GridCell.Tab.0.right/0.23.1920.995/-1920.23.1920.1057@0.23.1920.995" timestamp="1593086602878" />
+    <state width="1363" height="264" key="GridCell.Tab.0.right/0.23.1920.996/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593003836109" />
+    <state width="1363" height="264" key="GridCell.Tab.0.right/0.23.1920.996/-1920.23.1920.1057@0.23.1920.996" timestamp="1593006545044" />
+  </component>
+</project>
